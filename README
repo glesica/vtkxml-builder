@@ -20,6 +20,9 @@ the following:
 
 This will build the documentation in a directory called "build".
 
+Documentation can also be found online at
+https://vtkxml-builder.readthedocs.org/en/latest/
+
 Tests
 -----
 
