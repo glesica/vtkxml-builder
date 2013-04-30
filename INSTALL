@@ -1,0 +1,3 @@
+Installation is done by the normal Python process:
+
+    python setup.py install
