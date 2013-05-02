@@ -161,7 +161,7 @@ class VtuWriter(object):
 
         Generates a ``<DataArray>`` XML element that contains vector data.
         """
-        ncomp = len(data[0])
+        ncomp = len(data)
         vector = doc.createElementNS('VTK', 'DataArray')
         vector.setAttribute('Name', name)
         vector.setAttribute('type', datatype or self.guess_vector_type(data))
