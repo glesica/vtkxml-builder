@@ -9,6 +9,8 @@ Documentation for vtkxml-builder
 .. toctree::
    :maxdepth: 2
 
+   howto
+
 Module Documentation
 --------------------
 
